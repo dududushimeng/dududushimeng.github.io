@@ -1,2 +1,1 @@
-- name: Image Resizer Inplace
-  uses: xprilion/img-resizer-inplace@v1
+destination: docs
